@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: rgb(38, 35, 41);
+    color: rgb(240, 128, 108);
+    margin-top: 11%;
+    
+}
+
+h1{
+    color: rgb(134, 241, 10);
+    font-style: oblique;
+}
+
+p{
+    font-size: large;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+#time{
+    font-weight: bold;
+    font-size: x-large;
+}
